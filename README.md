@@ -3,4 +3,4 @@ Bug Bounty RoadMap for You ;)
 
 The **Best** and most **Complete** RoadMap for The *Bug Bounty Web* RoadMap
 # Question?
-- Telegram : @iPurpleTeam
+- Telegram : @YasinSaffari
